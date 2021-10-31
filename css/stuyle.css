@@ -257,6 +257,7 @@ border-radius: 50% ;
 
 .newsletter{
     position: relative;
+    overflow: hidden;
 }
 .newsletter img{
 height: 400px;
