@@ -250,6 +250,7 @@ border-radius: 50% ;
 
 
 /* News Letter  */
+
 .team_work{
     background-color: #ccc;
 }
@@ -261,7 +262,6 @@ border-radius: 50% ;
 height: 400px;
 width: 100vw;
 }
-
 .content{    
         position: absolute ;
         right: 40% !important;
