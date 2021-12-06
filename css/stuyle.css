@@ -62,10 +62,7 @@ margin:0 auto;
 background-color: var(--purple);
 color: #fff;
 /* height: 20psx; */
-
-
 }
-
 .notify_icons:hover{
     color: var(--yellow);
     }
@@ -76,7 +73,6 @@ color: #fff;
 .notify-paragraph{
  font-size: 20px;
 }
-
 .card-title{
 color: var(--white);
 font-size:25px;
